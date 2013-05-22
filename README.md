@@ -2,7 +2,7 @@
 
 Bigmouth wants to be ur friendly neigbourhood loudspeaker.
 
-## Installing
+### Installing
 
     $ git clone https://github.com/ngty/bigmouth
     $ cd bigmouth
@@ -11,7 +11,7 @@ Bigmouth wants to be ur friendly neigbourhood loudspeaker.
 Most likely the setup won't be successful the 1st time. Just fix
 whatever problem u come across & rerun the setup.
 
-## Running
+### Running
 
 In the foreground:
 
@@ -29,7 +29,7 @@ Unsurprisingly, to stop:
 
     $ make stop
 
-## Pinging It
+### Pinging It
 
 With the default voice:
 
