@@ -1,0 +1,15 @@
+{
+  "public": {
+    "port": 3456
+  },
+  "private": {
+    "port": 1314
+  },
+  "voices": {
+    "a": "cmu_us_awb_cg",
+    "b": "cmu_us_rms_cg",
+    "c": "cmu_us_slt_arctic_hts",
+    "d": "kal_diphone",
+    "e": "rab_diphone"
+  }
+}
