@@ -1,5 +1,6 @@
-/Makefile
-/log
-/package.json
-/tmp
-/.git
+Makefile
+package.json
+.gitignore
+**/log/**
+**/tmp/**
+**/.git/**
