@@ -2,7 +2,6 @@ var app = require("restify").createServer();
 var config = require('./lib/config');
 var log = require('./lib/log')
 var speak = require('./lib/speak');
-var festival = require('./lib/festival');
 
 
 function handle(req, res, callback){
