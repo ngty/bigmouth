@@ -21,17 +21,15 @@ app.put('/:voice/speak', function(req, res, next){
 });
 
 app.put('/speak', function(req, res, next){
-  req.params.voice = undefined
   handle(req, res, next);
 });
 
-app.get('/:voice/ping', function(req, res, next){
+app.put('/:voice/ping', function(req, res, next){
   req.params.text = "u ping i pong !!";
   handle(req, res, next);
 });
 
-app.get('/ping', function(req, res, next){
-  req.params.voice = undefined
+app.put('/ping', function(req, res, next){
   req.params.text = "u ping i pong !!";
   handle(req, res, next);
 });
