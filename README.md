@@ -1,6 +1,6 @@
 # BIGMOUTH
 
-Bigmouth wants to be ur local loudspeaker
+Bigmouth wants to be ur friendly neigbourhood loudspeaker.
 
 ## Installing
 
