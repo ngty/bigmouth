@@ -3,7 +3,7 @@
     "port": 3456
   },
   "private": {
-    "port": 1314
+    "port": 3457
   },
   "voices": {
     "a": "cmu_us_awb_cg",
